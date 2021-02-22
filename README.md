@@ -8,6 +8,4 @@ My name is Oleksii Filonenko, I'm from Kyiv, Ukraine, and I *love* Open Source.
 - 📫 How to reach me: over [email](mailto:brightone@protonmail.com), [Telegram](https://t.me/Br1ght0ne), or anywhere on GitHub :)
 - 😄 Pronouns: he/him
 
-### Stats
-
-[![Br1ght0ne's github stats](https://github-readme-stats.vercel.app/api?username=Br1ght0ne&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](https://github.com/Br1ght0ne/Br1ght0ne/blob/master/github-metrics.svg)
