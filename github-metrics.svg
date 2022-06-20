@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4772 Commits
+                            4899 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -345,11 +345,11 @@
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#404 feat: return error on empty function or argument name</span>
+                                        <span class="issue">#409 Encoding of an enum with all unit variants (#390)</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by hal3e in <span class="repo">FuelLabs/fuels-rs</span></div>
+                                    <div>opened by segfault-magnet in <span class="repo">FuelLabs/fuels-rs</span></div>
                                 </div>
                             </section>
                         </div>
@@ -377,11 +377,11 @@
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#398 docs: migrate all examples</span>
+                                        <span class="issue">#404 feat: return error on empty function or argument name</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by vnepveu in <span class="repo">FuelLabs/fuels-rs</span></div>
+                                    <div>opened by hal3e in <span class="repo">FuelLabs/fuels-rs</span></div>
                                 </div>
                             </section>
                         </div>
@@ -406,7 +406,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Jun 2022, 15:17:22 (timezone Europe/Kiev) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 20 Jun 2022, 16:32:08 (timezone Europe/Kiev) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
