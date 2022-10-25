@@ -449,7 +449,7 @@ I feel like rolling our own package registry is the better call, but I'll leave 
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Oct 2022, 10:37:03 (timezone Europe/Kiev) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 25 Oct 2022, 11:22:01 (timezone Europe/Kiev) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
