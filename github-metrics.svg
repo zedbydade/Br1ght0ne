@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1279" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="930" class="">
     <defs>
         <style/>
     </defs>
@@ -127,7 +127,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 3452 repositories
+                            Starred 3453 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -325,6 +325,19 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">carl-anders/slimevr-wrangler</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -401,195 +414,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 146 commits in
-                                        <span class="repo">FuelLabs/fuels-rs</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">oleksii/fuels-wasm</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#dc31023</div>
-                                        <div class="message">docs: follow-ups from the book re-org (#468)
-
-* docs: follow-ups from the book re-org
-
-Co-authored-by: vicnep &lt;nepveu.victor@hotmail.fr&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8bff86f</div>
-                                        <div class="message">refactor!: move `ParamType` type inside `fuels-types` (#457)
-
-* refactor: move `ParamType` type inside `fuels-types`</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cd3962f</div>
-                                        <div class="message">ci: use forc v0.18 (#460)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7b71aba</div>
-                                        <div class="message">refactor: remove duplicate functions (#462)
-
-* remove duplicate functions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#492b909</div>
-                                        <div class="message">add check for invalid path (#459)
-
-Incorrect path for the storage slots JSON file should cause an error (#456)
-
-* add check for invalid path</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c9bb334</div>
-                                        <div class="message">The big Fuel SDK Book re-org (#453)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b585976</div>
-                                        <div class="message">release!: bump version to 0.17.0 (#452)
-
-This release is a breaking release notably because of #444.
-
-Co-authored-by: Rodrigo Araújo &lt;rod.dearaujo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2fc2f56</div>
-                                        <div class="message">fix: abigen enum with string or array (#447)
-
-* fix: abigen enum with string or array
-
-* refactor: bundle type inside enum tests
-
-Co-authored-by: MujkicA &lt;ahmed.mujkic@fuel.sh&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#72fdc01</div>
-                                        <div class="message">feat: add initial storage automatically (#442)
-
- feat: add automatic storage initialization
-
-Co-authored-by: MujkicA &lt;ahmed.mujkic@fuel.sh&gt;
-Co-authored-by: Ahmed Mujkic &lt;32431923+MujkicA@users.noreply.github.com&gt;
-Co-authored-by: John Adler &lt;adlerjohn@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0a403a5</div>
-                                        <div class="message">feat: transaction target block height (#428)
-
-feat: a `produce_block` test helper that would enable testers to easily ramp up the block height in order to test behavior related to tx maturity
-
-Also starts to actually propagate the requested tx maturity in the request towards fuel-core.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#83089a2</div>
-                                        <div class="message">feat: add manual initial storage slots (#441)
-
-* feat: add manual storage initialization
-
-Co-authored-by: MujkicA &lt;ahmed.mujkic@fuel.sh&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f8aed88</div>
-                                        <div class="message">refactor!: move the `Error` type inside `fuels-types` workspace (#444)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#43a4396</div>
-                                        <div class="message">chore: use `concurrency` to cancel previous CI runs (#445)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1125e07</div>
-                                        <div class="message">fix: cargo build with `--no-default-features` flag (#440)
-
-* add is_free()
-
-* add fmt
-
-* add test --all-targets --no-default-features
-
-* add build --all-targets --no-default-features
-
-* add fmt
-
-* add build --no-default-features
-
-* add remove build command
-
-fix: cargo build with --no-default-features flag (#440)
-1. add missing function is_free()
-2. add "test --all-targets --no-default-features" in CI</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#597a68c</div>
-                                        <div class="message">refactor: make `InstantiationError` a variant of `Error` (#443)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8498ca7</div>
-                                        <div class="message">Improve devx by providing shortcuts to decode bytes into contract types. (#431)
-
-feat: improve devx by providing a way to directly instantiate contract types from bytes
-
-`abigen!` generated types will now have `TryFrom` implemented which will enable developers to `try_into` a vector or slice of bytes into the generated type.
-
-For native types a helper function will need to be used `try_from_bytes` which achieves the same effect.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a730d6a</div>
-                                        <div class="message">Multi-call (#399)
-
-* feat: add multi call support
-
-* docs: document how to use multi call
-
-Co-authored-by: John Adler &lt;adlerjohn@users.noreply.github.com&gt;
-
-* fix: small improvement on multi call code and tests
-
-Co-authored-by: MujkicA &lt;ahmed.mujkic@fuel.sh&gt;
-Co-authored-by: John Adler &lt;adlerjohn@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6ca6ac7</div>
-                                        <div class="message">fix: make generated module public (#433)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ad721b3</div>
-                                        <div class="message">refactor: tests return Result&lt;&gt; when applicable (#427)
-
-Co-authored-by: vicnep &lt;nepveu.victor@hotmail.fr&gt;
-Co-authored-by: Ahmed Mujkic &lt;32431923+MujkicA@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#41fbb34</div>
-                                        <div class="message">fix `setup_test_provider` not working with `Config::local_node` (#425)
-
-* add fix
-
-* add refactoring
-
-* add check if port is used
-
-* add fmt
-
-Bug: setup_test_provider not working with Config::local_node (#405)
-
-1. Add fix to enable using of Config::local_node.
-2. Add fix to catch "Error: Address already in use" error.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Nov 2022, 10:13:20 (timezone Europe/Kiev) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 15 Nov 2022, 11:10:39 (timezone Europe/Kiev) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
